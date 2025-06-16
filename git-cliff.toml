@@ -18,6 +18,12 @@ conventional_commits = true
 filter_commits = true
 tag_pattern = "v[0-9]+(\\.[0-9]+)*"
 
+exclude_commits = [
+  "Update changelog",
+  "update changelog",
+  "\\[skip ci\\]"
+]
+
 [[changelog.git.tag_resolver]]
 # 태그 패턴에서 버전만 추출
 pattern = "v(?P<version>.*)"
