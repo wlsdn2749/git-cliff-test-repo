@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.3] - 2025-06-16
+
+### 🐛 Bug Fixes
+
+- Test7.py
+
+### 📚 Documentation
+
+- Test8.py
+
+### ⚙️ Miscellaneous Tasks
+
+- Update changelog for v0.0.2 [skip ci]
+
 ## [0.0.2] - 2025-06-16
 
 ### ⚙️ Miscellaneous Tasks
