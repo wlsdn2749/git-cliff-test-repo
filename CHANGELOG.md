@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.0.2] - 2025-06-16
+
+### ⚙️ Miscellaneous Tasks
+
+- Test6.py
+- Update changelog [skip ci]
+
+## [0.0.1] - 2025-06-16
 
 ### 🐛 Bug Fixes
 
